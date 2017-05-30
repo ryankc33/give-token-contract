@@ -5,6 +5,7 @@
   "author": "Ryan C",
   "license": "GPL-3.0",
   "main": "truffle.js",
+  "repository": "https://github.com/ryankc33/give-token-contract.git",
   "scripts": {
     "testrpc": "scripts/testrpc.sh",
     "test": "scripts/test.sh",
