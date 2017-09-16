@@ -1,4 +1,4 @@
-GiveCoin
+# GiveCoin
 
 GiveCoin is a cryptocurrency platform for money remittance for the Asia Pacific region built on top of the Ethereum Blockchain.
 
